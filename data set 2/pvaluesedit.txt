@@ -1,0 +1,35 @@
+for K means and GMM p value is 3.378689703156949e-08
+for K means and Fuzzy C Means p value is 3.1295987558702366e-08
+for K means and Spectral p value is 3.38823691698822e-08
+for K means and Hierarchicalward p value is 4.003272516972358e-09
+for K means and Hierarchicalaverage p value is 4.003272516972358e-09
+for K means and Hierarchicalcomplete p value is 4.003272516972358e-09
+for K means and Hierarchicalsingle p value is 4.003272516972358e-09
+
+
+for GMM and Hierarchicalaverage p value is 3.974000968340202e-09
+for GMM and Hierarchicalsingle p value is 3.974000968340202e-09
+
+for Fuzzy C Means and GMM p value is 3.1118001611498626e-08
+for Fuzzy C Means and Hierarchicalaverage p value is 3.596957862222306e-09
+for Fuzzy C Means and Hierarchicalsingle p value is 3.596957862222306e-09
+
+for Spectral and GMM p value is 3.369165874485605e-08
+for Spectral and Fuzzy C Means p value is 3.120688423817358e-08
+for Spectral and Hierarchicalaverage p value is 3.988612987274588e-09
+for Spectral and Hierarchicalsingle p value is 3.988612987274588e-09
+
+for Hierarchicalward and GMM p value is 3.974000968340202e-09
+for Hierarchicalward and Fuzzy C Means p value is 3.596957862222306e-09
+for Hierarchicalward and Spectral p value is 3.988612987274588e-09
+for Hierarchicalward and Hierarchicalaverage p value is 2.341341179371028e-10
+for Hierarchicalward and Hierarchicalcomplete p value is 2.341341179371028e-10
+for Hierarchicalward and Hierarchicalsingle p value is 2.341341179371028e-10
+
+for Hierarchicalaverage and Hierarchicalsingle p value is 2.341341179371028e-10
+
+for Hierarchicalcomplete and GMM p value is 3.974000968340202e-09
+for Hierarchicalcomplete and Fuzzy C Means p value is 3.596957862222306e-09
+for Hierarchicalcomplete and Spectral p value is 3.988612987274588e-09
+for Hierarchicalcomplete and Hierarchicalaverage p value is 2.341341179371028e-10
+for Hierarchicalcomplete and Hierarchicalsingle p value is 2.341341179371028e-10
