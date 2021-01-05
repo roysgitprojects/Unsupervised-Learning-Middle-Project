@@ -7,3 +7,12 @@ The data sets can be found here:
  1. [Online Shoppers Purchasing Intention Dataset Data Set](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset#)
  2. [Diabetes 130-US hospitals for years 1999-2008 Data Set](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008)
  3. [clickstream data for online shopping Data Set](https://archive.ics.uci.edu/ml/datasets/clickstream+data+for+online+shopping)
+## Python Modules
+The main modules used on this project are:
+ * Sklearn
+ * Matplotlib
+ * Skfuzzy
+ * Numpy
+ * Pandas
+ * Scipy
+ * Yellowbrick
