@@ -1,0 +1,19 @@
+_____________kmeans is better than gmm,spectral,avarge, single
+_____________gmm is better than spectral,avarage,single
+_____________fcm is better than kmeans,gmm,spectral,avarage,single
+_____________spectral is better than avarage,single
+_____________ward is better than kmeans,gmm,fcm,spectral,avarage,single
+_____________avarage is better than single
+_____________complete is better than kmeans,gmm,fcm,spectral,ward,average,single
+
+
+
+conclusion:
+1. complete 
+2. ward
+3. fcm
+4. kmeans
+5. gmm
+6. spectral
+7. avarage
+8. single
