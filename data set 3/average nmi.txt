@@ -1,0 +1,16 @@
+0.013522094068594781
+for K means The average nmi score is p value is None
+0.013764195026404228
+for GMM The average nmi score is p value is None
+0.013616458403615889
+for Fuzzy C Means The average nmi score is p value is None
+0.013788595696731604
+for Spectral The average nmi score is p value is None
+0.012554545897151237
+for Hierarchicalward The average nmi score is p value is None
+0.013149361328376689
+for Hierarchicalaverage The average nmi score is p value is None
+0.014478244646607888
+for Hierarchicalcomplete The average nmi score is p value is None
+9.376462597049247e-05
+for Hierarchicalsingle The average nmi score is p value is None
