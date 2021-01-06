@@ -1,0 +1,8 @@
+for K means The average nmi score is 0.009739032123277877
+for GMM The average nmi score is 0.0013615964800029376
+for Fuzzy C Means The average nmi score is 0.00826404038047423
+for Spectral The average nmi score is 0.00876967951859835
+for Hierarchicalward The average nmi score is 0.007323430947769505
+for Hierarchicalaverage The average nmi score is 0.0071200669300055695
+for Hierarchicalcomplete The average nmi score is 0.006663306864217132
+for Hierarchicalsingle The average nmi score is 5.781161454013128e-05
